@@ -12,7 +12,7 @@ def valid_word(words):
 
 def hangman():
     word = valid_word(words)
-    print(word)
+    //print(word)
     word_letters = set(word) #letters in word
     alphabet = set(string.ascii_uppercase)
     used_letters = set()
