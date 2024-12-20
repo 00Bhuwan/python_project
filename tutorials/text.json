@@ -1,0 +1,83 @@
+{
+  "Root": {
+    "dataModel": {
+      "repo": [
+        {
+          "name": "Font_Family_Production",
+          "profile": "Font Family"
+        },
+        {
+          "name": "Trademark_Production",
+          "profile": "Trademark"
+        },
+        {
+          "name": "Font_Style_Production",
+          "profile": "Font Style"
+        }
+      ]
+    },
+    "FamilyProducts": [
+      {
+        "repo": "Font_Family_Production",
+        "Family Url Key": "mike-zuidgeest/escribo",
+        "Trademark Sign": " ",
+        "Trademark Name": " ",
+        "Trademark Text ID": " ",
+        "Is Deleted": "No",
+        "Vendor ID": "5515",
+        "metaKeywords": [
+          {
+            "lang": "en",
+            "content": [
+              "sans serif",
+              "sans modern",
+              "sans serif font",
+              "display sans",
+              "bold sans",
+              "handcrafted",
+              "mike zuidgeest",
+              "roboto",
+              "modern",
+              "modern fonts",
+              "Modern Style",
+              "app",
+              "apps",
+              "brand",
+              "Branding",
+              "brand identity",
+              "logo / brand",
+              "corporate branding",
+              "business",
+              "professional",
+              "Proxima",
+              "pro",
+              "strong",
+              "impact",
+              "bold impact",
+              "elegance",
+              "visual elegance",
+              "Timeless",
+              "timeless elegance",
+              "open sans",
+              "open sans serif font",
+              "open sans serif",
+              "application",
+              "unique",
+              "unique font",
+              "stylish",
+              "style",
+              "power"
+            ]
+          }
+        ],
+        "Default Style ID": "399429",
+        "description": [
+          {
+            "lang": "en",
+            "content": "<p><strong>Escribo Font</strong></p><p>Escribo is a handcrafted sans-serif typeface by Dutch designer Mike Zuidgeest, based in Rotterdam. This font combines modern elegance with a unique character, standing out among fonts like Roboto, Lato, Open Sans, and Montserrat. Escribo comes in 8 weights, ranging from Regular and Italic to Black, offering versatility for various design needs.<br></p><p></p><p><strong>Elegance and Versatility</strong></p><p>Escribo’s clean lines and balanced proportions make it perfect for diverse projects, from branding and editorial content to web design. Its refined simplicity enhances readability and adds sophistication to any application.</p><p><strong>Stylish and Modern</strong></p><p></p><p></p><p>Escribo brings a contemporary style to your designs. Its well-crafted letterforms ensure visual appeal and functionality, making it ideal for brands that value both aesthetics and usability.</p><p></p><p></p><p><strong>Royal Appeal</strong></p><p>Exuding a subtle sense of royalty, Escribo conveys confidence and authority. This quality makes it an excellent choice for brands aiming to project prestige and excellence.</p><p></p><p></p><p><strong>Strategic Design</strong></p><p>Mike Zuidgeest’s strategic approach ensures Escribo balances beauty and usability. Each glyph is crafted for optimal legibility across various media, making Escribo versatile for both digital and print formats.</p><p></p><p></p><p><strong>Handcrafted Uniqueness</strong></p><p>Escribo’s handcrafted charm reflects Zuidgeest’s creative vision, adding authenticity and character. This distinctiveness makes Escribo stand out, offering a unique option for designers seeking originality.</p><p></p><p></p><p><strong>Ideal for Branding</strong></p><p>Escribo’s elegance, style, and range of weights make it perfect for branding. It adapts seamlessly to various brand aesthetics, enhancing logos, taglines, and marketing materials. Escribo boosts brand recognition and leaves a lasting impression.</p><p></p><p></p><p><strong>Conclusion</strong></p><p>Escribo is more than a font; it’s a strategic design tool that combines elegance and style. Its unique, handcrafted quality and modern aesthetic make it ideal for elevating visual identities. Created by Mike Zuidgeest, Escribo blends form and function, ensuring your designs are both beautiful and effective. Choose Escribo for your next project and experience the difference a meticulously designed typeface can make.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
